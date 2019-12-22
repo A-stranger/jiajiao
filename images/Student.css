@@ -1,0 +1,42 @@
+#SiteColumn_Top {
+	WIDTH: 950px; HEIGHT: 2px; BACKGROUND-COLOR: #8cb618
+}
+#Site_Column {
+	WIDTH: 950px; PADDING-TOP: 5px; BORDER-BOTTOM: #d6f294 6px solid; HEIGHT: 23px; BACKGROUND-COLOR: #8cb618
+}
+#Column_Line {
+	FLOAT: left; WIDTH: 4px; HEIGHT: 23px; ackground-color: #8CB618
+}
+#Column_Attribute {
+	FLOAT: left; WIDTH: 80px; LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+#Column_1 {
+	FLOAT: left; WIDTH: 60px; LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+#Column_2 {
+	FLOAT: left; WIDTH: 90px; LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+#Column_3 {
+	FLOAT: left; WIDTH: 40px; LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+#Column_4 {
+	FLOAT: left; WIDTH: 50px; LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+#Column_Bottom {
+	WIDTH: 950px; LINE-HEIGHT: 2px; BACKGROUND-COLOR: #d6f294
+}
+.Column_color1 {
+	BACKGROUND-COLOR: #1d6811
+}
+.Column_color2 {
+	BACKGROUND-COLOR: #d6f294
+}
+#StudyArea_Area2 DIV {
+	FLOAT: left; WIDTH: 49%; HEIGHT: 22px
+}
+#StudyArea_Right {
+	BORDER-RIGHT: #7b9ebd 1px solid; BORDER-TOP: #7b9ebd 1px solid; FLOAT: left; MARGIN-LEFT: 5px; BORDER-LEFT: #7b9ebd 1px solid; WIDTH: 250px; BORDER-BOTTOM: #7b9ebd 1px solid
+}
+#Left_Class {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; LINE-HEIGHT: 22px; PADDING-TOP: 5px; LETTER-SPACING: 1px; BACKGROUND-COLOR: #f8fcec
+}

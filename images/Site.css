@@ -1,0 +1,348 @@
+BODY {
+	MARGIN-TOP: 0px
+}
+DIV {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#Body_Top {
+	CLEAR: both; WIDTH: 100%; LINE-HEIGHT: 10px; HEIGHT: 10px
+}
+#Site_Top {
+	DISPLAY: block; MARGIN: 0px auto; WIDTH: 950px
+}
+#Site_TopLeft {
+	PADDING-LEFT: 10px; FONT-SIZE: 24px; FLOAT: left; VERTICAL-ALIGN: baseline; WIDTH: 280px; COLOR: #999999; PADDING-TOP: 0px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; TEXT-ALIGN: left
+}
+#Site_TopRight {
+	FLOAT: right; WIDTH: 660px
+}
+#Site_DH_Top {
+	WIDTH: 660px; LINE-HEIGHT: 22px; TEXT-ALIGN: right
+}
+#Site_DH_Bottom {
+	WIDTH: 660px; HEIGHT: 35px; TEXT-ALIGN: right
+}
+#SiteDH_Left {
+	FLOAT: left; WIDTH: 65px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#DH_Line {
+	FLOAT: left; WIDTH: 1px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+#SiteDH_Index {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_g1.gif); WIDTH: 61px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_RequestTeach {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_g1.gif); WIDTH: 61px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_No1 {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_g2.gif); WIDTH: 73px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_Teacher {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_g3.GIF); WIDTH: 89px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_DoTeach {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_r1.gif); WIDTH: 61px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_Student {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_r2.GIF); WIDTH: 89px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_Study {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_h1.gif); WIDTH: 51px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_StudyClub {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_y1.GIF); WIDTH: 51px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#SiteDH_Collage {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/z_m_b1.gif); WIDTH: 51px; PADDING-TOP: 4px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 25px; TEXT-ALIGN: center
+}
+#Html_Title {
+	WIDTH: 100%; PADDING-TOP: 8px; HEIGHT: 22px; BACKGROUND-COLOR: #84ae00
+}
+#Html_Title_Left {
+	FONT-WEIGHT: bold; FLOAT: left; WIDTH: 60%; COLOR: #ffffff; TEXT-ALIGN: left
+}
+#Html_Title_Right {
+	FLOAT: right; WIDTH: 40%; TEXT-ALIGN: right
+}
+#Html_Body {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.layout {
+	BACKGROUND: #ffffff; MARGIN: 0px auto; WIDTH: 950px
+}
+#Site_Bottom {
+	BORDER-TOP: #ff7300 3px solid; MARGIN: 0px auto; WIDTH: 950px; LINE-HEIGHT: 25px; PADDING-TOP: 15px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+A:link {
+	COLOR: #16387c; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #16387c; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #16387c; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #16387c; TEXT-DECORATION: none
+}
+A.b:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.b:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.b:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.b:active {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.c:link {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.c:visited {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.c:hover {
+	FONT-SIZE: 13px; COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.c:active {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.d:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.d:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.d:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.d:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.s_a:link {
+	COLOR: #333333; LINE-HEIGHT: 22px; LETTER-SPACING: 2px; TEXT-DECORATION: none
+}
+A.s_a:visited {
+	COLOR: #333333; LINE-HEIGHT: 22px; LETTER-SPACING: 2px; TEXT-DECORATION: none
+}
+A.s_a:hover {
+	COLOR: #ff6600; LINE-HEIGHT: 22px; LETTER-SPACING: 2px; TEXT-DECORATION: none
+}
+A.s_a:active {
+	COLOR: #333333; LINE-HEIGHT: 22px; LETTER-SPACING: 2px; TEXT-DECORATION: underline
+}
+A.b_a:link {
+	FONT-WEIGHT: bold; COLOR: #333333; TEXT-DECORATION: none
+}
+A.b_a:visited {
+	FONT-WEIGHT: bold; COLOR: #333333; TEXT-DECORATION: none
+}
+A.b_a:hover {
+	FONT-WEIGHT: bold; COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.b_a:active {
+	FONT-WEIGHT: bold; COLOR: #333333; TEXT-DECORATION: underline
+}
+A.f:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.f:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.f:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.f:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#Class_LeftTop {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/ico_1.gif); WIDTH: 11px; BACKGROUND-REPEAT: repeat-y; HEIGHT: 17px
+}
+#Class_Right {
+	BORDER-RIGHT: #bcdc6f 2px solid; BORDER-TOP: #bcdc6f 2px solid; FLOAT: right; PADDING-BOTTOM: 5px; OVERFLOW: hidden; WIDTH: 137px; PADDING-TOP: 5px; BORDER-BOTTOM: #bcdc6f 2px solid
+}
+#Class_Right SPAN {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+#Class_Right LI {
+	OVERFLOW: hidden; LINE-HEIGHT: 22px; LIST-STYLE-TYPE: none; HEIGHT: 22px
+}
+#Class_Right A {
+	PADDING-LEFT: 5px; LINE-HEIGHT: 22px
+}
+#Body_RightTop1 {
+	BACKGROUND-IMAGE: url(../images/qjj_line_1.GIF); WIDTH: 315px; BORDER-BOTTOM: #89a652 1px solid; BACKGROUND-REPEAT: repeat-x
+}
+#Letsno1_Body_1 {
+	WIDTH: 310px
+}
+.Letsno1_Body_Title_1 {
+	PADDING-LEFT: 5px; FLOAT: left; MARGIN-LEFT: 4px; WIDTH: 92px; LINE-HEIGHT: 30px; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 33px
+}
+#Letsno1_Body_a {
+	MARGIN-LEFT: 8px; WIDTH: 299px; PADDING-TOP: 5px; HEIGHT: 0px
+}
+#Letsno1_Body_b {
+	MARGIN-LEFT: 8px; WIDTH: 299px; PADDING-TOP: 5px; HEIGHT: 0px
+}
+#Letsno1_Body_Content_Left {
+	FLOAT: left; WIDTH: 70px; TEXT-ALIGN: right
+}
+#Letsno1_Body_Content_Right {
+	FLOAT: right; WIDTH: 225px; LINE-HEIGHT: 22px
+}
+#Letsno1_Body_1 DIV {
+	LINE-HEIGHT: 22px
+}
+#Letsno1_Body_Content_Right DIV {
+	LINE-HEIGHT: 22px
+}
+#Body_RightTop2 {
+	BACKGROUND-IMAGE: url(../images/qjj_line_red1.GIF); WIDTH: 315px; BORDER-BOTTOM: #784f57 1px solid; BACKGROUND-REPEAT: repeat-x
+}
+.Letsno1_Body_Title_2 {
+	PADDING-LEFT: 5px; FLOAT: left; MARGIN-LEFT: 4px; WIDTH: 92px; LINE-HEIGHT: 30px; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 33px
+}
+#Letsno1_Body_c {
+	MARGIN-LEFT: 8px; WIDTH: 299px; PADDING-TOP: 5px; HEIGHT: 0px
+}
+#Letsno1_Body_d {
+	MARGIN-LEFT: 8px; WIDTH: 299px; PADDING-TOP: 5px; HEIGHT: 0px
+}
+#Search_Value {
+	BORDER-TOP: #8cb618 1px solid; HEIGHT: 80px
+}
+A.d_a:link {
+	COLOR: #3c5709; TEXT-DECORATION: none
+}
+A.d_a:visited {
+	COLOR: #3c5709; TEXT-DECORATION: none
+}
+A.d_a:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.d_a:active {
+	COLOR: #3c5709; TEXT-DECORATION: underline
+}
+A.d_a2:link {
+	COLOR: #560303; TEXT-DECORATION: none
+}
+A.d_a2:visited {
+	COLOR: #560303; TEXT-DECORATION: none
+}
+A.d_a2:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.d_a2:active {
+	COLOR: #560303; TEXT-DECORATION: underline
+}
+A.d_a3:link {
+	COLOR: #000000
+}
+A.d_a3:visited {
+	COLOR: #000000
+}
+A.d_a3:hover {
+	COLOR: #ff6600
+}
+A.d_a3:active {
+	COLOR: #000000
+}
+A.more:link {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.more:visited {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.more:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+A.more:active {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+#RequestTeach_DH {
+	Z-INDEX: 999; LEFT: -50px; WIDTH: 147px; COLOR: #000000; LINE-HEIGHT: 22px; POSITION: absolute; TOP: 17px; TEXT-ALIGN: left
+}
+#DH_Pic {
+	WIDTH: 100%; PADDING-TOP: 12px; BACKGROUND-REPEAT: repeat; HEIGHT: 43px; TEXT-ALIGN: center
+}
+#DH_Content {
+	WIDTH: 100%; BACKGROUND-REPEAT: repeat; HEIGHT: 56px; TEXT-ALIGN: center
+}
+.dh_txt0 {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/g_5.GIF); LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.dh_txt1 {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/g_3.GIF); LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.dh_txt2 {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/g_4.GIF); LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.d1h_txt0 {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/r-3.GIF); LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.d1h_txt1 {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/r-4.GIF); LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.d1h_txt2 {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/r-5.GIF); LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+#No1_DH {
+	Z-INDEX: 999; LEFT: -50px; WIDTH: 147px; COLOR: #000000; LINE-HEIGHT: 22px; POSITION: absolute; TOP: 17px; TEXT-ALIGN: left
+}
+#Teacher_DH {
+	Z-INDEX: 999; LEFT: -50px; WIDTH: 147px; COLOR: #000000; LINE-HEIGHT: 22px; POSITION: absolute; TOP: 17px; TEXT-ALIGN: left
+}
+#DoTeach_DH {
+	Z-INDEX: 999; LEFT: -50px; WIDTH: 147px; COLOR: #000000; LINE-HEIGHT: 22px; POSITION: absolute; TOP: 17px; TEXT-ALIGN: left
+}
+#Student_Class {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Student_Area {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Student_Collage {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Teacher_Class {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Teacher_Area {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Foreign_Class {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Foreign_Country {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Foreign_Area {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#ForeignTeacher_Class {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#ForeignTeacher_Country {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#ForeignTeacher_Area {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Member_Class {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+#Member_Area {
+	OVERFLOW: hidden; LINE-HEIGHT: 20px; HEIGHT: 20px
+}
+.My {
+	BACKGROUND-IMAGE: url(../images/n-line.GIF); WIDTH: 425px; COLOR: #ffffff; LINE-HEIGHT: 31px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 31px; TEXT-ALIGN: center
+}
+.MyContent {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/us1.GIF); WIDTH: 425px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 183px
+}
